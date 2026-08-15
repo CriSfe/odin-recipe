@@ -8,7 +8,8 @@ This project is based on the Foundation module of The Odin Project using HTML sy
 ### HTML Concepts covered in this project
 
 - Internal links between pages.
-- Using images, how to correctly size them.
+- Using images and correctly size them.
+- Use of list and nested list ordered and unordered.
 - Organize project folders on a correctly way.
 - Build my searching skill with Google or Stackoverflow without depending on any AI chat tool.
 - Navigate, create and eliminate files and folders using the CLI.
